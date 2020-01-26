@@ -1,1 +1,1 @@
-# machine-liearning-challenge
+# machine-learning-challenge
